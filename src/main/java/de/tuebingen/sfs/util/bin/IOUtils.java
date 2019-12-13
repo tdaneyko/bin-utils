@@ -1,4 +1,4 @@
-package de.tuebingen.sfs.utils.bin;
+package de.tuebingen.sfs.util.bin;
 
 import java.io.IOException;
 import java.io.OutputStream;
